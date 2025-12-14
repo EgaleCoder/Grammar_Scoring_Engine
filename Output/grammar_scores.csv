@@ -1,0 +1,7 @@
+audio_file,transcription,error_ratio,avg_sentence_length,pos_consistency,repetition_ratio,grammar_score
+sample2.mp3,"she likes football, play 2.",0.0,7.0,0.1429,0.0,8.9
+sample3.mp3,the dog is barking loudly.,0.0,6.0,0.1667,0.0,8.73
+sample6.mp3,we have working being on this project.,0.0,8.0,0.25,0.0,9.48
+sample1.mp3,is dog the barking loudly.,0.0,6.0,0.1667,0.0,8.73
+sample4.mp3,they were going to their park yesterday.,0.125,8.0,0.25,0.0,8.47
+sample5.mp3,grandparents will visit my eye tomorrow.,0.1429,7.0,0.2857,0.0,8.19
